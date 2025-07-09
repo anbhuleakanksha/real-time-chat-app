@@ -8,9 +8,7 @@ A sleek and interactive real-time chat application built using **Angular**, **No
 
 ✨ Real-time one-on-one and group messaging  
 📝 Typing indicator support  
-🔔 Notification sounds for new messages  
-🖼️ Image upload & preview  
-🎨 Stylish UI with bubble-style chat  
+🔔 Notification sounds for new messages   
 📱 Responsive design for desktop & mobile
 
 ---
