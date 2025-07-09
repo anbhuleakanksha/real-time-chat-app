@@ -1,27 +1,61 @@
-# Akanksha
+# 💬 Real-Time Chat App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+A sleek and interactive real-time chat application built using **Angular**, **Node.js**, **Express**, and **Socket.IO**.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🌟 Features
 
-## Code scaffolding
+✨ Real-time one-on-one and group messaging  
+📝 Typing indicator support  
+🔔 Notification sounds for new messages  
+🖼️ Image upload & preview  
+🎨 Stylish UI with bubble-style chat  
+📱 Responsive design for desktop & mobile
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🚀 Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+| Frontend | Backend     | Real-Time      | Styling     |
+|----------|-------------|----------------|-------------|
+| Angular  | Node.js     | Socket.IO      | CSS3        |
+| TypeScript | Express.js | WebSockets     | Custom theme |
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🛠️ How to Run
 
-## Running end-to-end tests
+### 📦 Backend (Node.js)
+```bash
+cd backend
+npm install
+npm start
+🌐 Frontend (Angular)
+bash
+Copy
+Edit
+cd frontend
+npm install
+ng serve
+🔗 Open in browser: http://localhost:4200
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+📸 Screenshots
+Coming Soon... (Optional: You can upload screenshots here!)
 
-## Further help
+💡 Future Improvements
+✅ Dark/Light mode toggle
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+✅ Chat avatars
+
+✅ User login with authentication
+
+✅ Private chat rooms
+
+✅ Message history (with database)
+
+🙋‍♀️ Developed By
+👩‍💻 Anbhule Akanksha
+🎓 MCA Student | Web Developer
+📬 Email: your-email@example.com
+🔗 GitHub: @anbhuleakanksha
